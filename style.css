@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page{
+    height: 100vh;
+    width: 100%;
+}
+.first{
+    width: 100%;
+    height: 80vh;
+    background: url(images/NoPath\ -\ Copy\ \(6\).png);
+    background-size: cover;
+}
+.logo{
+    display: inline;
+    width: 45px;
+}
+input{
+    display: inline-block;
+    width: 300px;
+    height: 45px;
+    border-radius: 20px;
+    border: 0;
+    position: relative;
+    top: -10px;
+    padding-left: 45px;
+}
+i{
+    position: absolute;
+    left: 70px;
+    top: 30px;
+}
+.cloud1,.cloud2{
+    position: absolute;
+}
+.cloud1{
+    top: 40vh;
+    left: 30px;
+}
+.cloud2{
+    top: 60vh;
+    left: 43%;
+}
+.div{
+    width: 100%;
+    word-spacing: 30px;
+    text-align: center;
+    padding-top: 5vh;
+}
+p{
+    word-spacing: 5px;
+}
+span{
+    display: inline-block;
+    width: 310px;
+    height: 220px;
+    text-align: justify;
+    border: 1px solid grey;
+    border-radius: 50px;
+    padding: 40px;
+    box-shadow: inset 7px 7px 3px rgba(0,0,0,0.16 );
+    position: relative;
+}
+.num{
+    position: absolute;
+    width: 55px;
+    left:-20px;
+}
+hr{
+    margin: 5px 0px;
+}
+.fg,.sg,.tg,.fog,.fig{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.fg{
+    color: #426B97;
+}
+.sg{
+    color: #CEFF00;
+}
+.tg{
+    color: #FF0000;
+}
+.fog{
+    color: #FF00EE;
+}
+.fig{
+    color: #CAD6E3;
+}
+.last{
+    width: 350px;
+    position: absolute;
+    top: 155vh;
+    left: 5%;
+}
