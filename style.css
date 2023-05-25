@@ -38,10 +38,12 @@ i{
 .cloud1{
     top: 40vh;
     left: 30px;
+    width: 30vw;
 }
 .cloud2{
-    top: 60vh;
+    top: 62vh;
     left: 43%;
+    width: 40vw;
 }
 .div{
     width: 100%;
@@ -93,8 +95,8 @@ hr{
     color: #CAD6E3;
 }
 .last{
-    width: 350px;
+    width: 20vw;
     position: absolute;
     top: 155vh;
-    left: 5%;
+    left: -1%;
 }
