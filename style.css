@@ -133,8 +133,7 @@ hr{
         width: 45px;
     }
     .last{
+        position: static;
         width: 50vw;
-        top: 270vh;
-        left: -1%;
     }
 }
