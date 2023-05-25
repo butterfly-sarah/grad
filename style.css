@@ -124,8 +124,8 @@ hr{
         word-spacing: 2px;
     }
     span{
-        width: 60vw;
-        height: 28vh;
+        width: 70vw;
+        height: 250px;
         padding: 37px;
         margin-top: 10px;
     }
@@ -134,7 +134,7 @@ hr{
     }
     .last{
         width: 50vw;
-        top: 245vh;
+        top: 270vh;
         left: -1%;
     }
 }
