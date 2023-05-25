@@ -100,3 +100,41 @@ hr{
     top: 155vh;
     left: -1%;
 }
+@media(max-width:450px){
+    .first{
+        background-position: center;
+    }
+    input{
+        width: 65vw;
+    }
+    .cloud1{
+        top: 40vh;
+        left: 30px;
+        width: 48vw;
+    }
+    .cloud2{
+        top: 75vh;
+        left: 35%;
+        width: 55vw;
+    }
+    .div{
+        padding-top: 0vh;
+    }
+    p{
+        word-spacing: 2px;
+    }
+    span{
+        width: 60vw;
+        height: 28vh;
+        padding: 37px;
+        margin-top: 10px;
+    }
+    .num{
+        width: 45px;
+    }
+    .last{
+        width: 50vw;
+        top: 245vh;
+        left: -1%;
+    }
+}
